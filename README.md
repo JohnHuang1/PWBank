@@ -1,2 +1,2 @@
-Simple password storage standalone application. Still in progress. Going to add binary search, quicksort, and encryption.
+Simple password storage standalone application.
 Made using Visual Studio 2017
